@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-Olá... Meu nome é <strong>Heloisa Tibilletti</strong> e sou estudante de Análise e Desenvolvimento de Sistemas. Seja bem vindo ao meu humilde perfil!!
+Olá... Meu nome é <strong>Heloisa Tibilletti</strong> e sou estudante de Análise e Desenvolvimento de Sistemas. Seja bem vindo ao meu perfil!!
 
 ##
 <strong>Tecnology</strong>
